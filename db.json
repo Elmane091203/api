@@ -1,3 +1,12 @@
 {
-  "produits":[]
+  "produits":[
+    {
+  "id": 1,
+  "code": "PRD123",
+  "designation": "Produit Test",
+  "description": "Un produit de test",
+  "date_expiration": "2025-03-01T00:00:00.000Z",
+  "prix": 150
+}
+  ]
 }
